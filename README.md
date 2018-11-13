@@ -5,7 +5,7 @@ Mit Sourses
 <p>First, I will help me improving my listening and pronunaction. I used to work in Chinese enviroment. English is my weak.</p>
 <p>Second, it will refresh my knowledge. I have experience in computer science. While working, I may ignore some knowledge that was not used at work. It would be better to touch them again.</p>
 
-<p><b>& rarr; 11/12/2018 6.006 Introduction to Algorithms </b> </p>
+<p><b>&rarr; 11/12/2018 6.006 Introduction to Algorithms </b> </p>
 <p>This course provides an introduction to mathematical modeling of computational problems. It covers the common algorithms, algorithmic paradigms, and data structures used to solve these problems. The course emphasizes the relationship between algorithms and programming, and introduces basic performance measures and analysis techniques for these problems. </p>
 <p>https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/index.htm</p>
 <p></p>
