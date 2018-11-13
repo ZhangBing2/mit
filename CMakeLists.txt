@@ -18,6 +18,7 @@ if (MSVC_VERSION GREATER_EQUAL "1900")
 endif()
 
 # Include sub-projects.
+add_subdirectory ("Algorithms6.006")
 add_subdirectory ("Algorithms6.046")
-set_property( DIRECTORY PROPERTY VS_STARTUP_PROJECT "Algorithms6.046" )
+set_property( DIRECTORY PROPERTY VS_STARTUP_PROJECT "Algorithms6.006" )
 
